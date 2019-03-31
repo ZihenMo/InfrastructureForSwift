@@ -1,0 +1,9 @@
+# 请求框架
+# github "Alamofire/Alamofire" "5.0.0.beta.1"
+	github "Moya/Moya" ~> 12.0
+# JSON序列化与反序列化
+	github "alibaba/HandyJSON" ~> 4.2.0
+# 布局
+	github "freshOS/Stevia" "4.4.0"
+# logger
+	github "CocoaLumberjack/CocoaLumberjack"
